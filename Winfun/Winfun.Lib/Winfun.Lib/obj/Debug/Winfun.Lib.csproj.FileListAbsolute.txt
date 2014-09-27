@@ -1,0 +1,4 @@
+C:\E盘\文档\Git 代码管理\Code\Winfun\Winfun.Lib\Winfun.Lib\bin\Debug\Winfun.Lib.dll
+C:\E盘\文档\Git 代码管理\Code\Winfun\Winfun.Lib\Winfun.Lib\bin\Debug\Winfun.Lib.pdb
+C:\E盘\文档\Git 代码管理\Code\Winfun\Winfun.Lib\Winfun.Lib\obj\Debug\Winfun.Lib.dll
+C:\E盘\文档\Git 代码管理\Code\Winfun\Winfun.Lib\Winfun.Lib\obj\Debug\Winfun.Lib.pdb

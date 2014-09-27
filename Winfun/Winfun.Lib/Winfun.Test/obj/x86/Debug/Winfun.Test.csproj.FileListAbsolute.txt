@@ -1,0 +1,6 @@
+C:\E盘\文档\Git 代码管理\Code\Winfun\Winfun.Lib\Winfun.Test\bin\Debug\Winfun.Test.exe
+C:\E盘\文档\Git 代码管理\Code\Winfun\Winfun.Lib\Winfun.Test\bin\Debug\Winfun.Test.pdb
+C:\E盘\文档\Git 代码管理\Code\Winfun\Winfun.Lib\Winfun.Test\obj\x86\Debug\Winfun.Test.Properties.Resources.resources
+C:\E盘\文档\Git 代码管理\Code\Winfun\Winfun.Lib\Winfun.Test\obj\x86\Debug\Winfun.Test.csproj.GenerateResource.Cache
+C:\E盘\文档\Git 代码管理\Code\Winfun\Winfun.Lib\Winfun.Test\obj\x86\Debug\Winfun.Test.exe
+C:\E盘\文档\Git 代码管理\Code\Winfun\Winfun.Lib\Winfun.Test\obj\x86\Debug\Winfun.Test.pdb
